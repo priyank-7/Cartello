@@ -25,10 +25,10 @@ This project is an e-commerce web application built with Spring, Spring MVC, JSP
 1. Clone the repository:
 
 ```bash
-git clone https://https://github.com/priyank-7/E-commerce
+git clone https://https://github.com/priyank-7/Cartello
 ```
 ```bash
- cd E-commerce
+ cd Cartello
 ```
 
 ## Configure database
@@ -37,8 +37,3 @@ Edit <code>src/main/webapp/WEB-INF/spring-servlet.xml</code> and update database
 ```bash
 mvn clean install
 ```
-```bash
-mvn spring-boot:run
-```
-
-
